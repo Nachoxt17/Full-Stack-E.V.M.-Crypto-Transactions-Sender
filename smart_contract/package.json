@@ -1,0 +1,28 @@
+{
+  "name": "full-stack-evm-crypto-transactions-sender",
+  "version": "1.0.0",
+  "author": "ignacioceaglio@protonmail.com",
+  "description": "Transactions with Messages and Gif Files in any E.V.M. Compatible Blockchain. +-Tutorial:_ https://youtu.be/Wn_Kb3MR_cU ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contracts",
+    "test",
+    "solidity",
+    "hardhat"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0"
+  }
+}
